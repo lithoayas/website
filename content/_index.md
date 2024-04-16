@@ -11,3 +11,8 @@ seo:
  canonical: "" # custom canonical URL (optional)
  noindex: false # false (default) or true
 ---
+## Introduction
+
+This is **bold** text, and this is *emphasized* text.
+
+Visit the [Hugo](https://gohugo.io) website!
