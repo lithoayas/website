@@ -35,3 +35,4 @@ At Lithoayas, we are committed to delivering actionable insights that drive succ
 Partner with us to unlock the hidden potential of your geospatial and geochemical data. Together, let's navigate the complexities of our world and uncover the insights that matter.
 
 *Unveil the power of geospatial and geochemical insights with Lithoayas.*
+© Copyright 2024-2025 Lithoayas. All rights reserved.
