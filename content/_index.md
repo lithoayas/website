@@ -1,10 +1,10 @@
 ---
 title : "Welcome to LithoAyas"
 description: ""
-lead: "Unveiling Geospatial/Geochemical Insights with Intelligent MLOps"
+lead: "Unveiling Geospatial/Geochemical Insights with Data Visualization and Intelligent MLOps"
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
-draft: true
+draft: false
 # seo:
 #  title: "Welcome to LithoAyas" # custom title (optional)
 #  description: "" # custom description (recommended)
