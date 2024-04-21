@@ -29,7 +29,7 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-  name = "PublicData"
+  name = "Public Data"
   url = "/publicdata/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
