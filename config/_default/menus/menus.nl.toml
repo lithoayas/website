@@ -11,8 +11,8 @@
   url = "/docs/help/"
 
 [[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
+  name = "Data"
+  url = "/data/"
   weight = 10
 
 # [[main]]
