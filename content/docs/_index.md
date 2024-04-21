@@ -17,7 +17,7 @@ toc: true
 #   canonical: "" # custom canonical URL (optional)
 #   noindex: false # false (default) or true
 ---
-Welcome to [Consultancy Service Name], where we bring the world of publicly available data to your fingertips. 
+Welcome to LithoAyas, where we also bring the world of publicly available data to your fingertips. 
 
 Imagine accessing a vast array of public data effortlessly. With our seamless API interface, you can integrate this data directly into your systems, making information retrieval a breeze. Our embedded app provides intuitive visualization tools, allowing you to grasp insights at a glance.
 
