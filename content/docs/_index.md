@@ -19,6 +19,7 @@ toc: true
 ---
 Welcome to LithoAyas, where we also bring the world of publicly available data to your fingertips. 
 
+
 Imagine accessing a vast array of public data effortlessly. With our seamless API interface, you can integrate this data directly into your systems, making information retrieval a breeze. Our embedded app provides intuitive visualization tools, allowing you to grasp insights at a glance.
 
 Worried about privacy? Drop your data into our secure web interface for instant visualization without transmission—your data stays local, ensuring confidentiality.
