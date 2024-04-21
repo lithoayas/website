@@ -58,6 +58,7 @@ copyRight = "Copyright (c) 2020-2024 Hyas"
 
 [permalinks]
   blog = "/blog/:slug/"
+  publicdata = "/publicdata/"
   docs = "/docs/:sections[1:]/:slug/"
 # docs = "/docs/1.0/:sections[1:]/:slug/"
 
