@@ -12,6 +12,8 @@ draft: false
 #  noindex: false # false (default) or true
 ---
 
+
+
 Welcome to Lithoayas, a pioneering research and consulting company dedicated to unlocking profound insights from geospatial and geochemical data through advanced data visualization and intelligent MLOps (Machine Learning Operations).
 
 At Lithoayas, we are at the forefront of harnessing the power of geospatial and geochemical data to illuminate valuable insights for diverse industries ranging from mining and natural resources to environmental sciences and beyond. Our mission is to bridge the gap between raw data and actionable intelligence, empowering organizations to make informed decisions and drive innovation.

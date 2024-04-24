@@ -31,12 +31,18 @@
 [[main]]
   name = "Public Data"
   url = "/public data/"
-  weight = 10
+  weight = 30
+
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = 30
+  name = "News"
+  url = "/news/"
+  weight = 30  
+
+[[main]]
+  name = "AI/ML"
+  url = "/ai_ml/"
+  weight = 30  
 
 # [[social]]
 #   name = "Twitter"
@@ -62,7 +68,7 @@
   url = "/privacy/"
   weight = 10
 
-# [[footer]]
-#   name = "Terms of Service"
-#   url = "/terms/"
-#   weight = 20
+[[footer]]
+   name = "Terms of Service"
+   url = "/terms/"
+   weight = 20
