@@ -3,23 +3,18 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change to your default branch if it's not 'main'
+      - main  # Change this to your default branch if it's not 'main'
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Setup Pages
-      uses: actions/setup-pages@v1
-
-    - name: Deploy to GitHub Pages
-      run: |
-        mkdir -p public
-        cp index.html public
-        echo "<meta http-equiv='refresh' content='0; url=./index.html'>" > public/index.html
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./  # This should point to the directory with your index.html file
